@@ -6,11 +6,10 @@
  
 
 
-<div align="center">
-  <a href="https://github.com/MARCOWSR1984">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARCOWSR1984&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARCOWSR1984&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+<a href="https://github.com/MARCOWSR1984">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARCOWSR1984&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARCOWSR1984-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -27,7 +26,8 @@
   <img align="center" alt="Dev-CSS" height="30" width="40" 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
   <img align="center" alt="Dev-CSS" height="30" width="40" 
-            <img src="https://www.w3.org/2000/svg" >   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+           
 </div>
 
 ##
