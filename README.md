@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Marcos Rangel 😎
 - 🎓 Formado em Engenharia da Computação . . .
 - 💻 Foco em Java Back-End . . .
-- 🤑 Bancário em trasição de carreira . . .
 - 😉 Em busca de oportunidades na área . . .
 <br/><br/><br/>
  
@@ -28,7 +27,7 @@
   <img align="center" alt="Dev-CSS" height="30" width="40" 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
   <img align="center" alt="Dev-CSS" height="30" width="40" 
-            <img src="https://www.w3.org/2000/svg" >    
+            <img src="https://www.w3.org/2000/svg" >   
 </div>
 
 ##
