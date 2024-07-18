@@ -28,7 +28,7 @@
   <img align="center" alt="Dev-CSS" height="30" width="40" 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
   <img align="center" alt="Dev-CSS" height="30" width="40" 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" >    
+            <img src="https://www.w3.org/2000/svg" >    
 </div>
 
 ##
