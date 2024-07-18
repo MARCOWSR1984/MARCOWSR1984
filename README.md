@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Marcos Rangel 😎
-- 🎓 Estudante de Engenharia da Computação . . .
+- 🎓 Formado em Engenharia da Computação . . .
 - 💻 Foco em Java Back-End . . .
 - 🤑 Bancário em trasição de carreira . . .
 - 😉 Em busca de oportunidades na área . . .
